@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrinaCoelho
 - 👀 I’m interested in software development.
-- 🌱 I’m currently studying Java, Javascript, CSS and HTML.
+- 🌱 I’m currently studying Java, Javascript, CSS, HTML and Python 3.8.
 - 💞️ I’m looking to collaborate on challenging projects so I can learn from them.
 - 📫 How to reach me 
 
