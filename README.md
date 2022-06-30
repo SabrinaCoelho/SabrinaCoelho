@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrinaCoelho
 - 👀 I’m interested in software development.
-- 🌱 I’m currently studying Java, Javascript, CSS, HTML and Python 3.8.
+- 🌱 I’m currently studying Javascript, CSS, HTML, Angular, Java and Python.
 - 💞️ I’m looking to collaborate on challenging projects so I can learn from them.
 - 😊 Pronous: She/Her
 
