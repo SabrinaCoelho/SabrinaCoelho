@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently studying Javascript, CSS, HTML, Angular, Java and Python.
 - 💞️ I’m looking to collaborate on challenging projects so I can learn from them.
-- 😊 Pronous: She/Her
+- 😊 Pronouns: She/Her
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
