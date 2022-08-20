@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrinaCoelho
 - 👀 I’m interested in software development.
-- 🌱 I’m currently studying Javascript, CSS, HTML, Angular, Java and Python.
+- 🌱 I’m currently studying Javascript, Typescript, Angular and Java/Python for competitive programming.
 - 💞️ I’m looking to collaborate on challenging projects so I can learn from them.
 - 😊 Pronouns: She/Her
 
